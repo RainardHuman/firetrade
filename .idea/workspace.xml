@@ -23,6 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,6 +34,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Users\raina\Documents\firetrade\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\raina\Documents\firetrade\src\assets" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="Tests (firetrade)" type="JavaScriptTestRunnerKarma">
@@ -74,7 +80,7 @@
       <updated>1607950047770</updated>
       <workItem from="1607950049435" duration="2018000" />
       <workItem from="1607952288036" duration="1257000" />
-      <workItem from="1607961129989" duration="4823000" />
+      <workItem from="1607961129989" duration="16032000" />
     </task>
     <servers />
   </component>
