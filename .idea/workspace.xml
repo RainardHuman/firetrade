@@ -32,6 +32,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="ts.external.directory.path" value="C:\Users\raina\Documents\firetrade\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -81,6 +82,10 @@
       <workItem from="1607950049435" duration="2018000" />
       <workItem from="1607952288036" duration="1257000" />
       <workItem from="1607961129989" duration="16032000" />
+      <workItem from="1608488038764" duration="5293000" />
+      <workItem from="1608536908269" duration="1360000" />
+      <workItem from="1609844740411" duration="2335000" />
+      <workItem from="1610306390591" duration="1751000" />
     </task>
     <servers />
   </component>
@@ -119,5 +124,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607961165581" />
+    <state x="782" y="346" key="SettingsEditor" timestamp="1609845003724">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1609845003724" />
   </component>
 </project>

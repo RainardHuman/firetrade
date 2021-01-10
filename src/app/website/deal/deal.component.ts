@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, ElementRef, OnInit, ViewChild} from '@angular/core';
 
 @Component({
   selector: 'app-deal',
@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./deal.component.scss']
 })
 export class DealComponent implements OnInit {
-
+  @ViewChild('divElement') card: ElementRef;
   constructor() { }
 
   ngOnInit(): void {

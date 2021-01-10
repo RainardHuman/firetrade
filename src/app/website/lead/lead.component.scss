@@ -1,0 +1,9 @@
+.navbar-trade-primary {
+  color: white;
+  background: var(--app-navbar);
+}
+
+.navbar-trade-primary:checked {
+  color: white;
+  background: var(--app-success);
+}

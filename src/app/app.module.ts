@@ -9,6 +9,10 @@ import { LeadComponent } from './website/lead/lead.component';
 import { AuthComponent } from './website/auth/auth.component';
 import { PageNotFoundComponent } from './website/page-not-found/page-not-found.component';
 import { ProfileComponent } from './website/profile/profile.component';
+import { DealTableComponent } from './components/deal-table/deal-table.component';
+import { DealTableShortComponent } from './components/deal-table-short/deal-table-short.component';
+import { LeadCardComponent } from './components/lead-card/lead-card.component';
+import { DealViewComponent } from './components/deal-view/deal-view.component';
 
 @NgModule({
   declarations: [
@@ -18,11 +22,15 @@ import { ProfileComponent } from './website/profile/profile.component';
     LeadComponent,
     AuthComponent,
     PageNotFoundComponent,
-    ProfileComponent
+    ProfileComponent,
+    DealTableComponent,
+    DealTableShortComponent,
+    LeadCardComponent,
+    DealViewComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
